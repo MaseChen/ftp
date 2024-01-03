@@ -74,7 +74,7 @@
  * their size is defined by CMD_LEN
  */
 
-#define CMD_ACCT "ACCT" /* 	Account information. */
+#define CMD_ACCT "ACCT" /* Account information. */
 #define CMD_ADAT "PAWD" /* Authentication/Security Data. */
 
 #define CMD_LIST "LIST" /* Returns information of a file or directory. */
